@@ -1,0 +1,31 @@
+body {
+  background: #5488CB;
+}
+
+
+.News {
+  background: #white;
+  height: 45vh 77vh;
+  border-style: groove;
+      border-color: #5488CB;
+      border-width: 7px;
+  text-align: center;
+  font-style: ;
+  padding left: 10vh 70vh;
+  font-size: 4vh;
+color: white;
+
+}
+.btn {
+background-color: #5488CB;
+    border: none;
+    color: white;
+    padding: 2vh 4vh;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 4vh;
+    border {
+
+
+}
